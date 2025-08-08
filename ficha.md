@@ -1,4 +1,4 @@
-# Pierre X - Bruxo Nivel 10 - Pacto do Tomo
+# 🔮 Pierre X - Bruxo Nivel 10 - Pacto do Tomo
 
 **Resumo:**
 - CD das Magias: **15**
