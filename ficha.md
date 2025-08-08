@@ -1,6 +1,20 @@
 # 🔮 Pierre X - Bruxo Nivel 10 - Pacto do Tomo
 
+**Stats** 
+
+| Atributo                          | Valor        | Modificador | Notas        | 
+|:----------------------------------|:------------|:-------------|-------------:|
+| Bonus de Proficiência | -       | +4   | - |
+| Inteligência          | 13      | +1   | Proficiência em Investigação |
+| Força                 | 11      | -    | - |
+| Sabedoria             | 16      | +3   | Salvaguarda |
+| Destreza              | 14      | +2   | Proficiência em Acrobacia |
+| Carisma               | 17      | +3   | Salvaguarda; Proficiência em Enganação; Proficiencia em Atuação; |
+| Constituição          | 12      | +1   | - |
+
 **Resumo:**
+- CA: 16
+- HP: 67
 - CD das Magias: **15**
 - Bonus de ataque: **+7** para todos os ataques mágicos
 - Bonus em teste de resistência
