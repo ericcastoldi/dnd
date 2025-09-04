@@ -1,8 +1,7 @@
 # Kai Hansen - Tiefling Infernal - Bruxo Patrono Ínfero - Criminoso
 
 - **Nível** 1
-- **Bônus de Proficiencia**  +2
-- **CA** 13 (+11 Armadura de Couro; +2 DEX)
+- **CA** 15 (+11 Armadura de Couro; +4 DEX)
 - **PV** 10 (1d8 +2 CON)
 - **Deslocamento** 9m
 - **Iniciativa** +2
@@ -20,9 +19,6 @@
 | Sabedoria (WIS)    | 13    | +1                          |
 | Carisma (CHA)      | 15    | +2                          |
 
-Atributo | Valor | Modificador | Origem dos valores do Modificador |
-
-
 ## Proficiência
 
 - Bônus de proficiência: +2
@@ -30,11 +26,7 @@ Atributo | Valor | Modificador | Origem dos valores do Modificador |
 - CD das magias = 8 + Proficiência + Modificador de Carisma = 8 + 2 + 2 = 12
 Tipo de perícia | Modificador | Origem dos valores do Modificador |
 
-
-
-
-
-Magias
+## Magias
 
 | Magia / Truque                       | Tipo          | Alcance | Ataque / CD                     | Dano          | Cálculo / Observações                                                                                                                                                                    |
 | ------------------------------------ | ------------- | ------- | ------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
