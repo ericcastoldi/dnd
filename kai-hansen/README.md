@@ -1,4 +1,4 @@
-# Kai Hansen - Tiefling Infernal - Bruxo Patrono Ínfero - Criminoso
+# 🔮 Kai Hansen - Tiefling Infernal - Bruxo Patrono Ínfero - Criminoso
 
 - **Nível** 1
 - **CA** 15 (+11 Armadura de Couro; +4 DEX)
