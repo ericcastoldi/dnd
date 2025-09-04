@@ -45,13 +45,3 @@ Magias
 | **Hex (Danação)**                    | Magia Nível 1 | 27m  | +4 para ataques que aplicam Hex | +1d6 necrotic | Ataque: +Prof + Mod CHA = +4<br>Dano: +1d6 necrotic em ataques de arma ou Eldritch Blast enquanto Hex ativo<br>Concentração, 1 hora, aplica desvantagem em 1 teste de habilidade do alvo |
 | **Charm Person (Enfeitiçar Pessoa)** | Magia Nível 1 | 9m   | CD 12 (Sabedoria)               | N/A           | CD = 8 + Prof + CHA = 12<br>Alvo faz teste de Sabedoria, falha → encantado 1 hora<br>Sem dano, efeito de controle social                                                                 |
 
-
-
-
-
-Truque Taumaturgia
-Truque Raio de Fogo
-Truque Raio Místico/Eldritch Blast
-Truque Ilusão Menor/Minor Illusion
-Magia Danação/Hex
-Magia Enfeitiçar Pessoa
