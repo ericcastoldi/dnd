@@ -1,5 +1,21 @@
 # 🗡️ Kai Hansen – Arsenal Verbal & Justiça Sombria
 
+## 🎬 Script de Entrada – Kai Hansen (versão alternativa)
+
+**[Cena: A taverna está movimentada, cheia de vozes e cheiro de bebida. Uma carruagem de nobre passa do lado de fora; Kai, entrando, fecha o punho com raiva contida. A porta range forte com *Thaumaturgy*, e as velas tremulam.]**
+
+*(Kai caminha até o balcão, sem pressa, pede uma bebida curta. Seu olhar dourado rapidamente percorre a sala — para por um instante em um guarda sentado, expressão de claro desgosto, e depois desvia. Ele vai até uma mesa vazia e se senta sozinho, de costas para a parede, sempre de olho no ambiente.)*  
+
+**Se os aventureiros o abordarem:**  
+> “Vocês querem algo… ou só vão ficar olhando?”  
+
+**Se perguntarem quem ele é:**  
+> “Chamem-me Kai. Isso é tudo que precisam saber.”  
+
+**Se alguém insistir em puxar conversa:**  
+*(Olha para a bebida, depois ergue o olhar com calma, frio e direto.)*  
+> “Conversas demais nunca me trouxeram sorte. Mas… talvez vocês sejam uma exceção.”  
+
 ## 🍺 Sociais (tavernas, apresentações)
 - “Não costumo falar muito. Só observo.”
 - “Kai. Só isso. Mais que isso é perda de tempo.”
