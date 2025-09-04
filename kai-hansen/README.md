@@ -2,7 +2,7 @@
 
 ![Kai Hansen](kai-hansen-v1.png)
 
-> Kai Hansen nasceu em uma família tiefling pacífica, perseguida por nobres que desprezavam sua raça. Durante um ataque devastador, foi o único sobrevivente e foi entregue a parentes distantes, que o tratavam como servo. Anos de opressão e trabalho forçado o endureceram; quando adolescente, fugiu para as ruas, sobrevivendo com astúcia e pequenos crimes. Lá, encontrou a oportunidade de fazer um pacto com um Patrono Ínfero, garantindo poder e independência. Agora, Kai caminha pelo mundo com carisma e frieza, dominando magia sombria e ataques precisos, sempre pronto para sobreviver e impor sua vontade.
+> _Kai Hansen nasceu em uma família tiefling pacífica, perseguida por nobres que desprezavam sua raça. Durante um ataque devastador, foi o único sobrevivente e foi entregue a parentes distantes, que o tratavam como servo. Anos de opressão e trabalho forçado o endureceram; quando adolescente, fugiu para as ruas, sobrevivendo com astúcia e pequenos crimes. Lá, encontrou a oportunidade de fazer um pacto com um Patrono Ínfero, garantindo poder e independência. Agora, Kai caminha pelo mundo com carisma e frieza, dominando magia sombria e ataques precisos, sempre pronto para sobreviver e impor sua vontade._
 
 - **Nível** 1
 - **CA** 15 (+11 Armadura de Couro; +4 DEX)
