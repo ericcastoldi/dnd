@@ -5,10 +5,10 @@
 > _Kai Hansen nasceu em uma família tiefling pacífica, perseguida por nobres que desprezavam sua raça. Durante um ataque devastador, foi o único sobrevivente e foi entregue a parentes distantes, que o tratavam como servo. Anos de opressão e trabalho forçado o endureceram; quando adolescente, fugiu para as ruas, sobrevivendo com astúcia e pequenos crimes. Lá, encontrou a oportunidade de fazer um pacto com um Patrono Ínfero, garantindo poder e independência. Agora, Kai caminha pelo mundo com carisma e frieza, dominando magia sombria e ataques precisos, sempre pronto para sobreviver e impor sua vontade._
 
 - **Nível** 1
-- **CA** 15 (+11 Armadura de Couro; +4 DEX)
-- **PV** 10 (1d8 +2 CON)
+- **CA** 14 (+11 Armadura de Couro; +3 DEX)
+- **PV** 9 (1d8 +1 CON)
 - **Deslocamento** 9m
-- **Iniciativa** +2
+- **Iniciativa** +5
 - **Sentidos** Visão no Escuro 18m e Percepção Passiva 11
 - **Resistências** Resistencia a dano de fogo
 
@@ -17,8 +17,8 @@
 | Atributo           | Valor | Modificador                 |
 | ------------------ | ----- | --------------------------- |
 | Força (STR)        | 8     | -1                          |
-| Destreza (DEX)     | 14    | +2 base +2 antecedente → +4 |
-| Constituição (CON) | 12    | +1 base +1 antecedente → +2 |
+| Destreza (DEX)     | 16    | +3 |
+| Constituição (CON) | 13    | +1 |
 | Inteligência (INT) | 10    | +0                          |
 | Sabedoria (WIS)    | 13    | +1                          |
 | Carisma (CHA)      | 15    | +2                          |
