@@ -24,7 +24,6 @@
 - Bônus de proficiência: +2
 - Bônus de ataque mágico (Warlock) = Modificador de Carisma + Proficiência = 2 + 2 = +4
 - CD das magias = 8 + Proficiência + Modificador de Carisma = 8 + 2 + 2 = 12
-Tipo de perícia | Modificador | Origem dos valores do Modificador |
 
 ## Magias
 
