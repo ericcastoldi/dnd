@@ -12,6 +12,13 @@
 - **Sentidos** Visão no Escuro 18m e Percepção Passiva 11
 - **Resistências** Resistencia a dano de fogo
 
+## Nível 2 
+
+- 2 novas Invocações Místicas
+  - Explosão Agonizante: adiciona modificador de Carisma no dano
+  - Vigor Infero: conjura Vitalidade Vazia sem gastar espaço de magia  
+
+
 ## Atributos:
 
 | Atributo           | Valor | Modificador                 |
