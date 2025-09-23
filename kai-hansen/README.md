@@ -27,7 +27,7 @@ de magia. Ao conjurar a magia, você escolhe uma das formas normais para o seu f
   - Explosão Agonizante: adiciona modificador de Carisma no dano
   - Vigor Infero: conjura Vitalidade Vazia sem gastar espaço de magia  
 
-## Nível 3 
+## Nível 3 (próximo nível)
 
 - Dados de Vida: ...
 - Vida atual: ...
