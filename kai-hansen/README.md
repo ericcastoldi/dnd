@@ -14,18 +14,23 @@
 
 ## Nível 1
 
+- Vida inicial: 9 (1d8 +1 CON)
 - 1 Invocação Mística
   - Pacto da Corrente: Você aprende a magia Convocar Familiar e pode conjurá-la como uma ação Usar Magia sem gastar um espaço
 de magia. Ao conjurar a magia, você escolhe uma das formas normais para o seu familiar ou uma das seguintes formas especiais: Cobra Peçonhenta, Diabrete, Esfinge Maravilhosa, Esqueleto, Pseudodragão, Quasit, Slaad Girino, Sprite (veja o apêndice B para o bloco de estatísticas do familiar). Além disso, ao executar ação Atacar, você pode renunciar a um de seus próprios ataques para permitir que seu familiar realize um ataque próprio como uma Reação dele.
 
 ## Nível 2 
 
+- Dados de Vida: +5
+- Vida atual: 14
 - 2 novas Invocações Místicas
   - Explosão Agonizante: adiciona modificador de Carisma no dano
   - Vigor Infero: conjura Vitalidade Vazia sem gastar espaço de magia  
 
 ## Nível 3 
 
+- Dados de Vida: ...
+- Vida atual: ...
 - Ganha mais 1 magia preparada
 - Escolhe a Subclasse - Patrono Ínfero
 
