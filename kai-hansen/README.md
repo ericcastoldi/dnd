@@ -24,6 +24,20 @@ de magia. Ao conjurar a magia, você escolhe uma das formas normais para o seu f
   - Explosão Agonizante: adiciona modificador de Carisma no dano
   - Vigor Infero: conjura Vitalidade Vazia sem gastar espaço de magia  
 
+## Nível 3 
+
+- Ganha mais 1 magia preparada
+- Escolhe a Subclasse - Patrono Ínfero
+
+Ideias:
+- Remove das magias a Gargalhada Nefasta de Tasha
+- Adiciona Sugestão
+- Adiciona das magias do Patrono Ínfero o Raio Ardente
+
+Bonus de Patrono Ínfero:
+- Ao reduzir um inimigo a 0 HP (ou alguem reduzir um inimigo até 3m de mim a 0 HP) eu ganho +5 PV Temporários: +2CHA e +3 de nivel de bruxo
+
+
 ## Atributos:
 
 | Atributo           | Valor | Modificador                 |
