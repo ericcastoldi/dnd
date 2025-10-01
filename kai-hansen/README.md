@@ -27,10 +27,15 @@ de magia. Ao conjurar a magia, você escolhe uma das formas normais para o seu f
   - Explosão Agonizante: adiciona modificador de Carisma no dano
   - Vigor Infero: conjura Vitalidade Vazia sem gastar espaço de magia  
 
+### Astúcia Mágica
+
+Ao final de um rito esotérico que você pode realizar por 1 minuto, você recupera os espaços de magia das Magias de Pacto gastos em um número igual à metade da sua quantidade máxima (arredondado para cima).
+Você pode usar esta característica novamente após completar um Descanso Longo.
+
 ## Nível 3 (próximo nível)
 
-- Dados de Vida: ...
-- Vida atual: ...
+- Dados de Vida: +8
+- Vida atual: 22
 - Ganha mais 1 magia preparada
 - Escolhe a Subclasse - Patrono Ínfero
 
