@@ -34,8 +34,8 @@ Você pode usar esta característica novamente após completar um Descanso Longo
 
 ## Nível 3 (próximo nível)
 
-- Dados de Vida: ...
-- Vida atual: ...
+- Dados de Vida: +8
+- Vida atual: 22
 - Ganha mais 1 magia preparada
 - Escolhe a Subclasse - Patrono Ínfero
 
