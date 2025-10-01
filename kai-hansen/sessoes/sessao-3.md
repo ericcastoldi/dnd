@@ -36,5 +36,5 @@ Todos da party tem cicatrizes semelhantes e interligadas. O Amuleto de Vorlag re
 
 - Velha Dilma diz: "Nem todas as correntes prendem. Dores prendem vocês aqui."
 - Felicus diz que em Sylvan existem monges com cicatrizes semelhantes
-- Em uma caixa que Vorlog encontrou existia uma mensagem escrita em um papel: "As correntes não são nossas, filho. São deles."
-- Velha Dilma diz que as correntes estão presas a nós e que devemos encontrar as chavers que conectam **OS MUNDOS** 
+- Em uma caixa que Vorlog encontrou na loja de Félicus existia uma mensagem escrita por Gaticus em um papel: "As correntes não são nossas, filho. São deles." 
+- Velha Dilma diz que as correntes estão presas a nós e que devemos encontrar as chaves que conectam **OS MUNDOS** 
